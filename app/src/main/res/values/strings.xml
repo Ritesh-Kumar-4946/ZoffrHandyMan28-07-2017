@@ -1,0 +1,68 @@
+<resources>
+    <!--<string name="app_name">Zoffr HandyMan</string>-->
+
+
+    <!--login signup screen text (Start)-->
+    <string name="edt_login_user_name">User Name</string>
+    <string name="useremail_text">ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890.,_^-@#$=+()&amp;%`~*{}[]:;&lt;&gt;</string>
+    <string name="edt_login_email">Email</string>
+    <string name="edt_mobile_number">Mobile Number</string>
+    <string name="edt_login_password">Password</string>
+    <string name="edt_old_password">Old Password</string>
+    <string name="edt_new_password">New Password</string>
+    <string name="edt_confirm_new_password">Confirm New Password</string>
+    <string name="edt_confirm_password">Confirm Password</string>
+    <string name="singup_button">Signup</string>
+    <string name="new_account_text">New Member?</string>
+    <string name="already_account_text">Already have an account.</string>
+    <string name="forgot_password_text">Forgot Password</string>
+    <string name="singin_button">Signin</string>
+    <string name="login_text">Login</string>
+    <string name="numeric">1234567890</string>
+    <string name="text_yes_no">YESNO</string>
+    <string name="text_quantity">Quantity valid for</string>
+    <string name="text_days">Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday </string>
+    <string name="dialog_string">dialog</string>
+    <string name="login_email_user">Email Address</string>
+    <string name="txt_or">Or</string>
+    <string name="signup_below">New to Zoffr signup here.</string>
+    <string name="tv_banner">The Smallest things make the biggest difference</string>
+    <string name="tv_banner_signup">No Job Too Small</string>
+    <string name="tv_banner_text">The Handyman</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="signup_spinner_select_handyman_type">Handyman Type</string>
+    <!--login signup screen text (End)-->
+
+
+    <string name="edt_hint_sales_exe_code_id">Enter</string>
+    <string name="tv_hint_sales_person_name">Name</string>
+    <string name="tv_hint_sales_exe_contact_no">Contact Number</string>
+    <string name="tv_hint_sales_exe_emp_id">Emp id</string>
+    <string name="edt_hint_cheque_no">Cheque Number</string>
+    <string name="edt_hint_amount">Enter Amount</string>
+    <string name="edt_hint_cheque_date">Cheque Date</string>
+    <string name="tv_hint_checked_selected_date">Date</string>
+    <string name="text_mail_us_id">support@zoffr.in</string>
+    <string name="toolbar_text_payment_selection">Account Mode</string>
+    <string name="toolbar_text_create_profile">Create your Profile</string>
+    <!--<string name="lorem">The AppBarLayout in this case is the blue view, placed under-->
+    <!--the collapsing image, it contains a Toolbar, a LinearLayout with title and-->
+    <!--subtitle and a TabLayout with some tabs.views.</string>-->
+
+
+    <!-- strings -->
+    <string name="app_name">Coordinator example</string>
+    <string name="quila_name">Quila</string>
+    <string name="quila_tagline">I love bones and slippers</string>
+    <string name="quila_name2">Quila!</string>
+    <string name="lorem">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vehicula sem a malesuada rhoncus. Pellentesque ut dolor a dui porttitor porta lacinia non libero. Nunc volutpat arcu quis quam convallis molestie. Etiam ac tristique sem, id commodo justo. Phasellus congue tincidunt lectus, at dignissim ligula maximus eu. Quisque interdum nunc eget tellus bibendum suscipit. Phasellus feugiat ultricies posuere. Nullam porta accumsan velit, ut rutrum massa fermentum eu. Nunc ac bibendum nunc. Mauris eu ultricies ipsum. Ut id dolor dui. Pellentesque dictum dui vel tempus maximus. Vivamus non nisi quis libero scelerisque pretium. Ut eu tristique justo. Sed pellentesque placerat quam, ut ultricies turpis feugiat a. Aliquam a volutpat risus.
+
+Praesent at lectus semper, suscipit elit in, facilisis massa. Phasellus sed vestibulum ante, a euismod sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Proin tincidunt orci augue, a porta odio lacinia eu. Nunc in congue risus. Maecenas commodo nibh ac enim fermentum, eu sagittis massa blandit. Vestibulum elementum massa nec dapibus mollis. Etiam porta, est sit amet aliquet porta, odio elit finibus risus, id rutrum purus mi non ipsum. Nulla viverra nec enim sed venenatis.
+
+Maecenas mattis, erat et viverra euismod, neque diam porttitor tellus, in fringilla metus est id augue. Nunc at metus cursus, porttitor nisi vitae, congue diam. Curabitur ligula massa, ullamcorper eget scelerisque vel, pharetra ac sapien. Ut auctor luctus ultricies. Nullam semper tortor ac elementum luctus. In et tempus ex. Praesent sodales, dolor id volutpat elementum, ligula enim euismod odio, maximus sodales magna neque nec neque. Curabitur pretium nisl neque, consequat aliquet dui tincidunt ac. Vivamus augue nunc, aliquet eu ex a, ultrices aliquam lorem. Duis nibh lectus, ultricies vel iaculis sit amet, imperdiet id sapien. Duis scelerisque sodales metus eu rutrum. Suspendisse posuere nisi ac magna consequat, eu vestibulum ipsum venenatis. Suspendisse auctor nisi nec leo venenatis tristique.
+
+Praesent tincidunt lorem sit amet mi consequat cursus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent vitae blandit sapien. Curabitur est sapien, lobortis sit amet facilisis vel, faucibus eu quam. Nam tempus libero at tellus tempor laoreet. Pellentesque quam lorem, tincidunt in molestie eget, dictum vel risus. Nunc gravida convallis mattis.
+    </string>
+
+</resources>
